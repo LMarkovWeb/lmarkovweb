@@ -1,6 +1,6 @@
 ## Hi, I'm a beginner Web-developer
 
-![CodeWars profile](https://www.codewars.com/users/LMarkov/badges/large)
+[![CodeWars profile](https://www.codewars.com/users/LMarkov/badges/large)](https://www.codewars.com/users/LMarkov)
 
 Frontend and Backend Developer: JavaScript and PHP.
 
