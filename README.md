@@ -35,3 +35,4 @@
 ---
 ### Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/LMarkov)
+[<img src="linkedin-pic.png">](https://www.linkedin.com/in/leonid-markov-devops/)
