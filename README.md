@@ -1,29 +1,29 @@
 ## Hi, I'm a beginner DevOps Engineer  
 
 **Qualifications:**  
-- University degree in Computer Science;  
-- 1 + years of work experience as a DevOps Engineer;  
-- Experience with **Nginx, Docker, Ansible, Terraform, Vagrant, Jenkins**;   
-- Familiar with monitoring solutions like **Prometheus + Grafana**;  
-- Skills in source code management tools **Git**;
-- **Linux** administration;  
-- Proficiency in writing scripts in **Bash**;
-- Virtualization software **KVM, VirtualBox**, virtualization management platform - **Proxmox**
-- Awareness of **TCP/IP** protocol stack
-- Experience on a popular **web languages and framework**:  
-![PHP](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=PHP)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3)
-![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
-![Next.JS](https://img.shields.io/badge/Next.JS-090909?style=for-the-badge&logo=Next.js)
-![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
-![Flexbox](https://img.shields.io/badge/Flexbox-090909?style=for-the-badge&logo=Flexbox)
-![Grid](https://img.shields.io/badge/Grid-090909?style=for-the-badge&logo=Grid)
-![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
-![MySql](https://img.shields.io/badge/MySql-090909?style=for-the-badge&logo=MySql)
-- Knowledge of **Web sites**/services creation and management (experience with **CMS Bitrix**)
++ University degree in Computer Science;  
++ 1 + years of work experience as a DevOps Engineer;  
++ Experience with **Nginx, Docker, Ansible, Terraform, Vagrant, Jenkins**;   
++ Familiar with monitoring solutions like **Prometheus + Grafana**;  
++ Skills in source code management tools **Git**;
++ **Linux** administration;  
++ Proficiency in writing scripts in **Bash**;
++ Virtualization software **KVM, VirtualBox**, virtualization management platform - **Proxmox**
++ Awareness of **TCP/IP** protocol stack
++ DataBases: **MySQL**, **PostgreSQL**
++ Experience on a popular **web languages and framework**:  
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=PHP)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-ffffff?style=for-the-badge&logo=CSS3)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=React)
+![Next.JS](https://img.shields.io/badge/Next.JS-ffffff?style=for-the-badge&logo=Next.js)
+![SASS](https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=SASS)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=Bootstrap)
+![Flexbox](https://img.shields.io/badge/Flexbox-ffffff?style=for-the-badge&logo=Flexbox)
+![Grid](https://img.shields.io/badge/Grid-ffffff?style=for-the-badge&logo=Grid)
+![Webpack](https://img.shields.io/badge/Webpack-ffffff?style=for-the-badge&logo=Webpack)
++ Knowledge of **Web sites**/services creation and management (experience with **CMS Bitrix**)
 
 ## Knowledge in programming  
 [![CodeWars profile](https://www.codewars.com/users/LMarkov/badges/large)](https://www.codewars.com/users/LMarkov)  
